@@ -1,0 +1,12 @@
+<?php
+require_once("include/db.php");
+require_once("include/function.php");
+require_once("include/session.php");
+?>
+<?php
+$_SESSION['Id']=null;
+$_SESSION['Name']=null;
+$_SESSION['AdminName']=null;
+session_destroy();
+redirect("login.php");
+?>

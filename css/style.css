@@ -1,0 +1,35 @@
+.bg{
+	background-color: #27aae1;
+	height:10px;
+}
+.cl{
+	color: #27aae1;
+}
+.tit{
+	color: orange;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+.min{
+	min-height: 300px;
+}
+.post-img{
+	width:150px;
+	height:80px;
+}
+.combg{
+	background-color:#F6f7f9;
+}
+.big{
+	display: block;
+	font-size: 2rem;
+}
+.siz{
+	font-size: 1.3rem;
+}
+span .bottom{
+	margin-bottom: 4em;
+}
+.border{
+	border-radius: none !important;
+}
